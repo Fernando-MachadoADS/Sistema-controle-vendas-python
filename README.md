@@ -17,11 +17,7 @@ O projeto está organizado em etapas para demonstrar a evolução do aprendizado
 - Etapa 01: Meus primeiros passos na programação
 - Etapa 02: Um programa simples baseado em logística
 - Etapa 03: O início do meu sistema de vendas
-- Etapa 04: Sistema de vendas v.2
-- Etapa 05: Sistema de vendas v.3
-- Etapa 06: Sistema de vendas v.4
-- Etapa 07: Sistema de vendas v.5
-- Etapa 08: Sistema de vendas v.6
+- Etapa 04 em diante: Atualizações contínuas aderentes ao estudo.(comentários anexos ao código)
 
 ## Tecnologias utilizadas
 - Python 3
